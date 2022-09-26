@@ -1,0 +1,12 @@
+# ===================================== #
+#                                       #
+#    Headstones v${project.version} - by alex3025    #
+#          PLUGIN CONFIGURATION         #
+#                                       #
+# ===================================== #
+
+# The player head will be dropped on break?
+drop-player-head: false
+
+# The date format to use in the headstone info message.
+date-format: 'dd/MM/yyyy HH:mm'

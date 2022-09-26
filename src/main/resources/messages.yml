@@ -1,0 +1,25 @@
+# ===================================== #
+#                                       #
+#    Headstones v${project.version} - by alex3025    #
+#         MESSAGES CUSTOMIZATION        #
+#                                       #
+# ===================================== #
+
+prefix: '&8[&bHeadstones&8]'
+
+# You can set any message to an empty string to disable it.
+
+# These messages won't have the prefix.
+no-permissions: '&cYou don''t have the permission to use this command!'
+cannot-break-others: '&cYou cannot break other players'' headstones!'
+
+headstone-broken: '&aYou broke your headstone and got all your items back!'
+
+# These messages will have the prefix.
+unknown-subcommand: '&cUnknown subcommand!'
+player-only: '&cThis command can be executed by players only!'
+headstone-info: '&f%username%&7 died here on &f%datetime%&7'
+
+# These messages will appear on the action bar.
+inventory-full: '&cYour inventory is full!'
+some-items-dropped: '&cSome items were dropped on the ground!'
