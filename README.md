@@ -13,7 +13,7 @@ To get the stuff back, only the player who died can break its headstone.
 
 ---
 
-## Need help?
+### Need help?
 Feel free to [DM me on Spigot](https://www.spigotmc.org/conversations/add?to=alex3025) or reach me out on Discord: **αℓєχ3025#2994**
 
 
