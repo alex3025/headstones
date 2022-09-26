@@ -1,7 +1,7 @@
 # Headstones
 _Don't lose your precious items when you die!_
 
-![img](https://i.imgur.com/KOXuOK9.png)
+![img](https://i.imgur.com/APOieA9.png)
 
 #### You can find more informations [on the Spigot MC page](https://www.spigotmc.org/resources/headstones.105462/), like commands and permissions!
 
